@@ -1,0 +1,80 @@
+User Input: "I've been feeling really anxious lately."
+Response: "It's normal to feel anxious sometimes. Can you identify what triggers your anxiety? Talking about it can help."
+
+User Input: "I can't seem to shake off this sadness."
+Response: "Feeling sad can be tough. Have you experienced any changes in your routine or stressors that might be affecting your mood?"
+
+User Input: "How can I cope with stress?"
+Response: "Here are a few strategies: deep breathing exercises, regular physical activity, and setting aside time for hobbies. What do you think would work for you?"
+
+User Input: "I don't know how to manage my anger."
+Response: "It's important to express your feelings. Try journaling, talking to someone you trust, or practicing mindfulness techniques."
+
+User Input: "Where can I find help?"
+Response: "You can reach out to a mental health professional or check out resources like local support groups or hotlines. Would you like me to help you find specific ones in your area?"
+
+User Input: "Are there any apps for mental health?"
+Response: "Yes, there are several great apps like Headspace, Calm, and Moodfit. They can provide guided meditations and mood tracking."
+
+User Input: "I'm not sure if I can get through this."
+Response: "Remember, it's okay to ask for help. You're stronger than you think, and taking it one step at a time is perfectly fine."
+
+User Input: "I feel so alone."
+Response: "You are not alone. Many people experience these feelings, and it's important to connect with others. Would you like tips on reaching out?"
+
+User Input: "Is it okay to seek therapy?"
+Response: "Absolutely! Therapy can be a valuable resource for anyone looking to understand their feelings and improve their mental health."
+
+User Input: "Can mental health issues affect physical health?"
+Response: "Yes, mental health and physical health are closely connected. Stress and anxiety can lead to various physical symptoms. Taking care of your mind is just as important as caring for your body."
+
+User Input: "I feel overwhelmed with everything."
+Response: "It's understandable to feel overwhelmed. Break tasks into smaller steps and prioritize what's most important. How can I assist you with that?"
+
+User Input: "What should I do when I have a panic attack?"
+Response: "Focus on your breathing—try inhaling deeply through your nose and exhaling slowly through your mouth. Grounding techniques, like counting objects around you, can also help."
+
+User Input: "I don't have anyone to talk to."
+Response: "It can be tough to feel isolated. Consider joining online support groups or forums where you can connect with others who understand what you're going through."
+
+User Input: "How do I improve my self-esteem?"
+Response: "Start by acknowledging your strengths and accomplishments. Surround yourself with supportive people and challenge negative thoughts when they arise."
+
+User Input: "I keep having negative thoughts."
+Response: "Negative thoughts can be persistent. Try to identify the triggers and reframe those thoughts with positive affirmations. Would you like examples?"
+
+User Input: "What if I don’t feel like doing anything?"
+Response: "It's okay to have days when you lack motivation. Start with small tasks and celebrate each step. Sometimes, simply getting out of bed is an achievement."
+
+User Input: "How can I practice mindfulness?"
+Response: "Mindfulness can be practiced through meditation, deep breathing, or simply being present in the moment. Would you like a guided exercise?"
+
+User Input: "Is it normal to feel burnt out?"
+Response: "Burnout is common, especially when you're under prolonged stress. It's important to take breaks and focus on self-care. What do you usually enjoy doing?"
+
+User Input: "How do I deal with feelings of guilt?"
+Response: "Guilt can be a heavy burden. Reflect on the reasons behind those feelings, and consider if there's a lesson to learn. Forgiving yourself is a crucial step."
+
+User Input: "What are some signs I need help?"
+Response: "If you're experiencing prolonged sadness, difficulty functioning in daily life, or thoughts of self-harm, it's important to seek help from a professional."
+
+User Input: "Can talking about my problems help?"
+Response: "Absolutely! Talking can provide relief and help you gain perspective. Whether it's a friend, family member, or therapist, sharing your feelings is important."
+
+User Input: "I feel like I can’t control my emotions."
+Response: "Emotions can be overwhelming. Consider keeping a journal to track your feelings and identify patterns. Mindfulness and grounding techniques can also help."
+
+User Input: "How can I support a friend in need?"
+Response: "Be there to listen without judgment, offer your time, and encourage them to seek professional help if needed. Sometimes just being present makes a difference."
+
+User Input: "What are some healthy coping mechanisms?"
+Response: "Healthy coping mechanisms include exercise, art, journaling, and spending time with loved ones. Find what resonates with you and makes you feel better."
+
+User Input: "How do I know if I’m depressed?"
+Response: "Signs of depression can include persistent sadness, loss of interest in activities, changes in sleep or appetite, and difficulty concentrating. If you're concerned, please consider reaching out for support."
+
+User Input: "I’ve lost interest in my hobbies."
+Response: "It's common to lose interest sometimes, especially during tough times. Give yourself permission to take a break, and when you're ready, try re-engaging with your hobbies at your own pace."
+
+User Input: "How can I help myself feel better today?"
+Response: "Start with small, manageable steps. Maybe go for a short walk, listen to your favorite music, or treat yourself to something you enjoy. What sounds good to you?"
